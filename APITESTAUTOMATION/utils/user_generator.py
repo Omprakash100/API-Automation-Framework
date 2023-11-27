@@ -1,6 +1,6 @@
 import faker
 import random
-from models.user import User
+from api.models.user import User
 
 
 def generate_random_user():

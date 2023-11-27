@@ -1,5 +1,5 @@
 import faker
-from models.pet import Pet
+from api.models.pet import Pet
 
 
 def generate_random_pet():
